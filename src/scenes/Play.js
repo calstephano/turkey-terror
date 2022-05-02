@@ -146,8 +146,11 @@ class Play extends Phaser.Scene {
 
   update(time, delta) {
     // Scene Swapping on game over
-    if(this.gameOver) {
-      if (Phaser.Input.Keyboard.JustDown(keyLEFT)) this.scene.start('menuScene');
+    if (this.gameOver) {
+      if (Phaser.Input.Keyboard.JustDown(keyLEFT)) {
+        this.bgMusic.stop();  // Stop music from overlapping
+        this.scene.start('menuScene');
+      }
       if (this.playerScore > highScore) highScore = this.playerScore;
       this.turkey.rush();
     }
