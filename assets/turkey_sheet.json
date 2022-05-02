@@ -1,0 +1,221 @@
+{ "frames": {
+   "turkey_sheetOutline 0.ase": {
+    "frame": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 1.ase": {
+    "frame": { "x": 199, "y": 0, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 2.ase": {
+    "frame": { "x": 398, "y": 0, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 3.ase": {
+    "frame": { "x": 597, "y": 0, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 4.ase": {
+    "frame": { "x": 796, "y": 0, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 5.ase": {
+    "frame": { "x": 0, "y": 199, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 6.ase": {
+    "frame": { "x": 199, "y": 199, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 7.ase": {
+    "frame": { "x": 398, "y": 199, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 8.ase": {
+    "frame": { "x": 597, "y": 199, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 9.ase": {
+    "frame": { "x": 796, "y": 199, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 10.ase": {
+    "frame": { "x": 0, "y": 398, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 11.ase": {
+    "frame": { "x": 199, "y": 398, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 12.ase": {
+    "frame": { "x": 398, "y": 398, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 13.ase": {
+    "frame": { "x": 597, "y": 398, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 14.ase": {
+    "frame": { "x": 796, "y": 398, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 15.ase": {
+    "frame": { "x": 0, "y": 597, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 16.ase": {
+    "frame": { "x": 199, "y": 597, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 17.ase": {
+    "frame": { "x": 199, "y": 597, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 18.ase": {
+    "frame": { "x": 398, "y": 597, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 19.ase": {
+    "frame": { "x": 597, "y": 597, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 20.ase": {
+    "frame": { "x": 796, "y": 597, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 21.ase": {
+    "frame": { "x": 0, "y": 796, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 22.ase": {
+    "frame": { "x": 199, "y": 796, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 23.ase": {
+    "frame": { "x": 398, "y": 796, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   },
+   "turkey_sheetOutline 24.ase": {
+    "frame": { "x": 597, "y": 796, "w": 199, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 199, "h": 199 },
+    "sourceSize": { "w": 199, "h": 199 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.34.1-x64",
+  "image": "turkey_sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 995, "h": 995 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "turkey_run", "from": 0, "to": 11, "direction": "forward" },
+   { "name": "turkey_start", "from": 12, "to": 20, "direction": "forward" },
+   { "name": "turkey_fly", "from": 21, "to": 24, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
