@@ -3,11 +3,6 @@
  * Game: Turkey Terror
  * Completed: 5/2/2022
  * 
- * Credits:
- * Randy Le         Main Programmer
- * Calvin Stephano	Background Artist / Sound Designer
- * Adam Fuhram		Player Artist / Animation
- * Andrew Cho	    Turkey Artist / Animation
  * 
  * Creative Tilt:
  * - Programming:   Since I (Randy) was working with sprites that had drastically differing sizes and the size of 
