@@ -12,6 +12,6 @@ Randy Le - Lead Programmer
 
 Andrew Cho - ​Player and Title Artist
 
-Calvin Stephano - ​Environment Artist / Sound Designer​ / Programmer
+Calvin Stephano - ​Environment Artist, Sound Designer​, and Programmer
 
 Adam Fuhrman - Enemy Artist​
