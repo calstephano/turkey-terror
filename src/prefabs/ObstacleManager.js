@@ -26,14 +26,15 @@
     addObstacle() {
         let obstacle;
         if(Phaser.Math.Between(0,1)) {
-            obstacle = this.activeObstacleGroup.create(game.config.width, 0, this.textures[1]).setOrigin(0);
+            // Change the spawn position of the vine here
+            let spawnY = 30;
+            obstacle = this.activeObstacleGroup.create(game.config.width, spawnY, this.textures[1]).setOrigin(0);
             obstacle.canSlide = true;
         } else {
             obstacle = this.activeObstacleGroup.create(game.config.width, game.config.height - groundSize, this.textures[0]).setOrigin(1);
         }
-        // console.log(obstacle.body.velocity);
-        // console.log(this.activeObstacleGroup.getLength());
     }
+    
 
     handleCollision(runner, obstacle){
         //console.log(obstacle.canSlide)
